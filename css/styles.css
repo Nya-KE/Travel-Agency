@@ -8,3 +8,12 @@ p.tropical {
 .tropical {
   font-family: fantasy;
 }
+
+.popular {
+  font-family: monospace;
+  font-style: oblique;
+}
+
+h2.popular {
+  font-weight: bolder;
+}
