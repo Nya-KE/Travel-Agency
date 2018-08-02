@@ -13,7 +13,9 @@ p.tropical {
   font-family: monospace;
   font-style: oblique;
 }
-
 h2.popular {
   font-weight: bolder;
+}
+.destinations{
+  width: 200px;
 }
